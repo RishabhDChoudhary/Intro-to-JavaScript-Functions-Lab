@@ -1,2 +1,2 @@
 # Intro-to-JavaScript-Functions-Lab
-This is 
+This is intro to javascript functions lab
